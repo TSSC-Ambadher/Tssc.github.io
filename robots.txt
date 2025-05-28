@@ -1,0 +1,13 @@
+User-agent: *
+
+# Crawling rules
+Allow: /
+Disallow: /cgi-bin/
+Disallow: /private-data/
+
+# Sitemap location
+Sitemap: https://tssc-ambadher.github.io/Tssc.github.io/sitemap.xml
+
+# Additional directives
+Crawl-delay: 10  # Delay between requests (in seconds)
+s
